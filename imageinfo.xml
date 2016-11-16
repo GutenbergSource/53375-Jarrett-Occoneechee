@@ -1,0 +1,132 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 22:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2010-02-11 22:03:56" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="64873" filedate="2016-10-18 20:45:01" width="466px" height="720px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="13885" filedate="2016-10-23 15:45:39" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="57115" filedate="2016-10-23 15:45:04" width="480px" height="720px">
+</image>
+<image path="images/ornament1.png" filesize="995" filedate="2016-10-18 21:49:45" width="36px" height="189px">
+</image>
+<image path="images/ornament1b.png" filesize="1040" filedate="2016-10-26 18:10:16" width="35px" height="190px">
+</image>
+<image path="images/ornament1c.png" filesize="1036" filedate="2016-10-26 18:19:42" width="35px" height="187px">
+</image>
+<image path="images/ornament1d.png" filesize="1031" filedate="2016-10-26 18:32:46" width="38px" height="185px">
+</image>
+<image path="images/ornament2.png" filesize="2866" filedate="2016-10-19 08:59:30" width="48px" height="205px">
+</image>
+<image path="images/ornament3.png" filesize="1584" filedate="2016-10-19 13:51:01" width="47px" height="109px">
+</image>
+<image path="images/ornament3b.png" filesize="1540" filedate="2016-10-23 11:30:03" width="48px" height="109px">
+</image>
+<image path="images/ornament4.png" filesize="995" filedate="2016-10-23 11:06:02" width="47px" height="123px">
+</image>
+<image path="images/ornament5.png" filesize="2128" filedate="2016-10-23 11:16:18" width="52px" height="124px">
+</image>
+<image path="images/ornament6.png" filesize="697" filedate="2016-10-25 17:45:14" width="28px" height="126px">
+</image>
+<image path="images/p009.jpg" filesize="83555" filedate="2016-10-18 21:08:23" width="462px" height="720px">
+</image>
+<image path="images/p021.jpg" filesize="88956" filedate="2016-10-18 21:47:15" width="462px" height="720px">
+</image>
+<image path="images/p026-1.jpg" filesize="63669" filedate="2016-10-18 21:54:03" width="649px" height="477px">
+</image>
+<image path="images/p026-2.jpg" filesize="36058" filedate="2016-10-19 08:09:02" width="640px" height="372px">
+</image>
+<image path="images/p037-1.jpg" filesize="46184" filedate="2016-10-19 08:19:39" width="328px" height="506px">
+</image>
+<image path="images/p037-2.jpg" filesize="32158" filedate="2016-10-19 08:22:45" width="332px" height="511px">
+</image>
+<image path="images/p037-3.jpg" filesize="31311" filedate="2016-10-19 08:25:54" width="332px" height="509px">
+</image>
+<image path="images/p037-4.jpg" filesize="37712" filedate="2016-10-19 08:28:58" width="334px" height="513px">
+</image>
+<image path="images/p043-1.jpg" filesize="44802" filedate="2016-10-19 08:37:31" width="326px" height="505px">
+</image>
+<image path="images/p043-2.jpg" filesize="44683" filedate="2016-10-19 08:40:03" width="332px" height="514px">
+</image>
+<image path="images/p043-3.jpg" filesize="57782" filedate="2016-10-19 08:42:37" width="331px" height="507px">
+</image>
+<image path="images/p043-4.jpg" filesize="40600" filedate="2016-10-19 08:45:03" width="333px" height="510px">
+</image>
+<image path="images/p051-1.jpg" filesize="48727" filedate="2016-10-19 09:02:24" width="647px" height="478px">
+</image>
+<image path="images/p051-2.jpg" filesize="59316" filedate="2016-10-19 09:05:01" width="642px" height="481px">
+</image>
+<image path="images/p067-1.jpg" filesize="70466" filedate="2016-10-19 13:55:05" width="647px" height="485px">
+</image>
+<image path="images/p067-2.jpg" filesize="63626" filedate="2016-10-19 13:58:31" width="640px" height="489px">
+</image>
+<image path="images/p073.jpg" filesize="92836" filedate="2016-10-19 14:02:32" width="464px" height="720px">
+</image>
+<image path="images/p077-1.jpg" filesize="111329" filedate="2016-10-19 14:05:19" width="647px" height="641px">
+</image>
+<image path="images/p077-2.jpg" filesize="43945" filedate="2016-10-19 14:07:10" width="648px" height="324px">
+</image>
+<image path="images/p081.jpg" filesize="82680" filedate="2016-10-19 14:11:00" width="462px" height="720px">
+</image>
+<image path="images/p091-1.jpg" filesize="65131" filedate="2016-10-23 11:09:35" width="651px" height="430px">
+</image>
+<image path="images/p091-2.jpg" filesize="73375" filedate="2016-10-23 11:12:05" width="646px" height="437px">
+</image>
+<image path="images/p099-1.jpg" filesize="69151" filedate="2016-10-23 11:23:31" width="645px" height="484px">
+</image>
+<image path="images/p099-2.jpg" filesize="61766" filedate="2016-10-23 11:27:14" width="650px" height="431px">
+</image>
+<image path="images/p107-1.jpg" filesize="80304" filedate="2016-10-23 11:32:36" width="643px" height="438px">
+</image>
+<image path="images/p107-2.jpg" filesize="75869" filedate="2016-10-23 11:35:35" width="645px" height="441px">
+</image>
+<image path="images/p117-1.jpg" filesize="75773" filedate="2016-10-23 11:38:27" width="642px" height="476px">
+</image>
+<image path="images/p117-2.jpg" filesize="72512" filedate="2016-10-23 11:40:17" width="649px" height="483px">
+</image>
+<image path="images/p129-1.jpg" filesize="32127" filedate="2016-10-23 11:42:53" width="291px" height="508px">
+</image>
+<image path="images/p129-2.jpg" filesize="41728" filedate="2016-10-23 11:44:53" width="358px" height="646px">
+</image>
+<image path="images/p129-3.jpg" filesize="70767" filedate="2016-10-23 11:48:14" width="645px" height="417px">
+</image>
+<image path="images/p139.jpg" filesize="77870" filedate="2016-10-23 11:50:57" width="466px" height="720px">
+</image>
+<image path="images/p153-1.jpg" filesize="24573" filedate="2016-10-25 17:34:42" width="333px" height="510px">
+</image>
+<image path="images/p153-2.jpg" filesize="35711" filedate="2016-10-25 17:38:13" width="333px" height="512px">
+</image>
+<image path="images/p153-3.jpg" filesize="34923" filedate="2016-10-25 17:40:31" width="333px" height="514px">
+</image>
+<image path="images/p153-4.jpg" filesize="39327" filedate="2016-10-25 17:42:45" width="333px" height="510px">
+</image>
+<image path="images/p171-1.jpg" filesize="73200" filedate="2016-10-25 17:48:12" width="644px" height="485px">
+</image>
+<image path="images/p171-2.jpg" filesize="64332" filedate="2016-10-25 17:51:15" width="645px" height="481px">
+</image>
+<image path="images/p185-1.jpg" filesize="73951" filedate="2016-10-26 18:13:26" width="647px" height="486px">
+</image>
+<image path="images/p185-2.jpg" filesize="77415" filedate="2016-10-26 18:16:48" width="650px" height="485px">
+</image>
+<image path="images/p191-1.jpg" filesize="75581" filedate="2016-10-26 18:22:09" width="645px" height="481px">
+</image>
+<image path="images/p191-2.jpg" filesize="64925" filedate="2016-10-26 18:24:09" width="649px" height="489px">
+</image>
+<image path="images/p197.jpg" filesize="68842" filedate="2016-10-25 17:54:17" width="464px" height="720px">
+</image>
+<image path="images/p237-1.jpg" filesize="42914" filedate="2016-10-26 18:26:10" width="313px" height="657px">
+</image>
+<image path="images/p237-2.jpg" filesize="43546" filedate="2016-10-26 18:28:05" width="320px" height="648px">
+</image>
+<image path="images/p237-3.jpg" filesize="44369" filedate="2016-10-26 18:30:08" width="646px" height="327px">
+</image>
+<image path="images/p284-1.jpg" filesize="60024" filedate="2016-10-26 18:35:32" width="644px" height="484px">
+</image>
+<image path="images/p284-2.jpg" filesize="64518" filedate="2016-10-26 18:38:28" width="642px" height="483px">
+</image>
+<image path="images/titlepage.png" filesize="6526" filedate="2016-10-18 20:51:22" width="458px" height="720px">
+</image>
+</images>
